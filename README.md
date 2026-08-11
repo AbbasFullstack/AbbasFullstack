@@ -56,9 +56,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbbasFullstack&theme=tokyonight&hide_border=true&border_radius=12)
+![Contribution Graph](https://ghchart.rshah.org/F7931A/AbbasFullstack)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbbasFullstack&theme=darkhub&no-frame=true&margin-w=8)
+> 📊 *My daily coding activity — har orange box ek din ki mehnat ki kahani hai!*
 
 </div>
 
