@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AbbasFullstack-181717?style=for-the-badge&logo=github)](https://github.com/AbbasFullstack)
 [![Email](https://img.shields.io/badge/abbaswebdevelopers@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
-[![Live Project](https://img.shields.io/badge/🚀_Crypto_Tracker-LIVE-orange?style=for-the-badge&logo=vercel)](https://crypto-tracker.vercel.app)
+[![Live Project](https://img.shields.io/badge/🚀_Crypto_Tracker-LIVE-orange?style=for-the-badge&logo=vercel)](https://realtime-crypto-tracker.vercel.app)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Real-Time Crypto Tracker](https://img.shields.io/badge/⚡_Real_Time_Crypto_Tracker-crypto--tracker.vercel.app-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://crypto-tracker.vercel.app)
+[![Real-Time Crypto Tracker](https://img.shields.io/badge/⚡_Real_Time_Crypto_Tracker-crypto--tracker.vercel.app-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-crypto-tracker.vercel.app)
 
 **Live crypto dashboard** — Binance WebSocket se har second update, interactive charts, top 50 coins & detail pages.
 *Built 100% on a mobile phone 📱 — Next.js 16 + TypeScript + Tailwind + Vercel*
