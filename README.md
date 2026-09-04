@@ -9,6 +9,7 @@ I build secure, data-driven web applications with **Next.js, React, TypeScript, 
 ## Verified credentials
 
 - **CS50x: Introduction to Computer Science** — Harvard University / CS50, 2026 · [Verify certificate](https://cs50.harvard.edu/certificates/2ce15d90-7211-4f96-9d8f-804e8691cd01)
+- **Python** — Kaggle, September 4, 2026 · [Verify certificate](https://www.kaggle.com/learn/certification/abbashussaindev/python)
 - **Back-End Development and APIs** — freeCodeCamp, August 28, 2026 · [Verify certificate](https://www.freecodecamp.org/certification/abbasweb/back-end-development-and-apis-v9)
 - **B1 English for Developers (Beta)** — freeCodeCamp, August 28, 2026 · [Verify certificate](https://www.freecodecamp.org/certification/abbasweb/b1-english-for-developers)
 
