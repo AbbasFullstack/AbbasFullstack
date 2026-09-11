@@ -146,22 +146,22 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" width="40" /><br/>
+      <img src="https://www.google.com/favicon.ico" width="40" /><br/>
       <b>Google for Education</b><br/>
       <sub>Gemini for Education · 2026</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/anthropic.svg" width="40" /><br/>
+      <img src="https://www.anthropic.com/favicon.ico" width="40" /><br/>
       <b>Anthropic</b><br/>
       <sub>Claude Code 101 · 2026</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/harvard.svg" width="40" /><br/>
+      <img src="https://www.harvard.edu/favicon.ico" width="40" /><br/>
       <b>Harvard University</b><br/>
       <sub>CS50x · 2026</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="40" /><br/>
+      <img src="https://www.microsoft.com/favicon.ico" width="40" /><br/>
       <b>Microsoft</b><br/>
       <sub>Azure Repos · 2026</sub>
     </td>
@@ -173,7 +173,6 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 **🔗 [View All 10+ Certifications](https://abbas-portfolio-beta.vercel.app/#certifications)**
 
 </div>
-
 ---
 
 <!-- GitHub Stats -->
