@@ -1,4 +1,4 @@
-(https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abbas%20Hussain&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web3&descAlignY=75&descSize=20&color=gradient&customColorList=10)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Abbas%20Hussain&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20Web3%20Developer&descAlignY=72&color=gradient&customColorList=10)
 
 <!-- Typing Animation -->
 <div align="center">
