@@ -156,7 +156,7 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
       <sub>Claude Code 101 · 2026</sub>
     </td>
     <td align="center" width="25%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/120px-Harvard_University_logo.svg.png" width="40" /><br/>
+  <img src="https://raw.githubusercontent.com/AbbasFullstack/AbbasFullstack/main/harvard.png" width="40" /><br/>
   <b>Harvard University</b><br/>
   <sub>CS50x · 2026</sub>
 </td>
