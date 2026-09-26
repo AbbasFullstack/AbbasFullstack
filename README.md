@@ -28,7 +28,9 @@
 
 <img align="right" width="180" src="https://github.com/AbbasFullstack.png" alt="Abbas Hussain" />
 
-**I'm a Full-Stack Developer from Pakistan 🇵🇰** — building production-ready apps with modern web technologies.
+**Full-Stack Developer | 5x Internship Experience | Building AI-powered products & secure Web3 tools**
+
+I'm a Full-Stack Developer from Pakistan 🇵🇰 — building production-ready apps with modern web technologies.
 
 I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven web applications**. My work spans authenticated SaaS workflows, real-time market streams, database design, typed API contracts, and responsible Web3 experiences.
 
