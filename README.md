@@ -1,9 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Abbas%20Hussain&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20Web3%20Developer&descAlignY=72&color=gradient&customColorList=10)
+<!-- Header Wave -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abbas%20Hussain&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web3&descAlignY=75&descSize=20&color=gradient&customColorList=10)
 
 <!-- Typing Animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=800&color=F7931A&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Web3+Builder;16-year-old+Self-Taught+Dev;Building+on+a+Mobile+Phone+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=800&color=F7931A&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Web3+Builder;5x+Internship+Experience;Building+on+a+Mobile+Phone+%F0%9F%93%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -27,13 +28,26 @@
 
 <img align="right" width="180" src="https://github.com/AbbasFullstack.png" alt="Abbas Hussain" />
 
-**I'm a 16-year-old self-taught Full-Stack Developer from Pakistan 🇵🇰** — building production-ready apps entirely on a mobile phone using GitHub Codespaces and Termux.
+**I'm a Full-Stack Developer from Pakistan 🇵🇰** — building production-ready apps with modern web technologies.
 
 I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven web applications**. My work spans authenticated SaaS workflows, real-time market streams, database design, typed API contracts, and responsible Web3 experiences.
 
 > 💡 **I care about clear product boundaries:** secure credentials stay server-side, API contracts stay documented, and testnet projects are presented responsibly.
 
 <br clear="right"/>
+
+---
+
+<!-- Experience -->
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| Backend Development Intern | **Internify** | Sep 2026 – Oct 2026 |
+| Full Stack Development Intern | **CodeAlpha** | Sep 2026 – Oct 2026 |
+| Web Development & Designing Intern | **Oasis Infobyte** | Sep 2026 – Oct 2026 |
+| Full Stack Development Intern | **ArithMatrix** | Sep 2026 – Oct 2026 |
+| Frontend Web Developer Intern | **Barakah TechLabs** | Sep 2026 – Oct 2026 |
 
 ---
 
@@ -57,8 +71,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 ### Data & Auth
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### AI, Realtime & Web3
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -156,10 +170,10 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
       <sub>Claude Code 101 · 2026</sub>
     </td>
     <td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/AbbasFullstack/AbbasFullstack/main/harvard.png" width="40" /><br/>
-  <b>Harvard University</b><br/>
-  <sub>CS50x · 2026</sub>
-</td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harvard_University_coat_of_arms.svg/120px-Harvard_University_coat_of_arms.svg.png" width="40" /><br/>
+      <b>Harvard University</b><br/>
+      <sub>CS50x · 2026</sub>
+    </td>
     <td align="center" width="25%">
       <img src="https://www.microsoft.com/favicon.ico" width="40" /><br/>
       <b>Microsoft</b><br/>
@@ -173,6 +187,7 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 **🔗 [View All 10+ Certifications](https://abbas-portfolio-beta.vercel.app/#certifications)**
 
 </div>
+
 ---
 
 <!-- GitHub Stats -->
@@ -184,17 +199,6 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasFullstack&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasFullstack&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-<!-- Contribution Graph -->
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AbbasFullstack/AbbasFullstack/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
