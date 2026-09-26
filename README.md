@@ -1,12 +1,8 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abbas%20Hussain&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web3&descAlignY=75&descSize=20&color=gradient&customColorList=10)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Web3&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
 
-<!-- Typing Animation -->
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+Product+Builder;Web3+%2F+ethers.js+Developer;Shipping+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=800&color=F7931A&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Web3+Builder;5x+Internship+Experience;Building+on+a+Mobile+Phone+%F0%9F%93%B1" alt="Typing SVG" />
-
-<br/>
 
 <!-- Live Portfolio Badge -->
 [![Live Portfolio](https://img.shields.io/badge/🚀_LIVE-abbas--portfolio.vercel.app-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
