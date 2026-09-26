@@ -1,4 +1,4 @@
-<!-- Header Wave -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abbas%20Hussain&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web3&descAlignY=75&descSize=20&color=gradient&customColorList=10)
 
 <!-- Typing Animation -->
@@ -172,7 +172,7 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
       <sub>Claude Code 101 · 2026</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harvard_University_coat_of_arms.svg/120px-Harvard_University_coat_of_arms.svg.png" width="40" /><br/>
+      <img src="harvard.png/><br/>
       <b>Harvard University</b><br/>
       <sub>CS50x · 2026</sub>
     </td>
