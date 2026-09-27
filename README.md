@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Abbas%20Hussain&fontSize=64&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Products%20%C2%B7%20Web3&descAlignY=70&color=0:050505,50:1a1a1a,100:050505" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
-
 <div align="center">
 
-**Full-Stack Developer · Building AI-powered products & secure Web3 tools**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Web3&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+Product+Builder;Web3+%2F+ethers.js+Developer;Shipping+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abbas--portfolio.beta.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
