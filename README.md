@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Abbas%20Hussain&fontSize=64&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Products%20%C2%B7%20Web3&descAlignY=70&color=0:050505,50:1a1a1a,100:050505" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Web3&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+Product+Builder;Web3+%2F+ethers.js+Developer;Shipping+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+**Full-Stack Developer · Building AI-powered products & secure Web3 tools**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abbas--portfolio.beta.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
@@ -98,14 +98,20 @@ cetx)** — Testnet faucet with claim/withdraw API routes and server-side transa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbbasFullstack&show_icons=true&hide_border=true" alt="GitHub stats" onerror="this.style.display='none'" />
-<img src="https://github-readme-stats.vercel.app/api/pin?username=AbbasFullstack&repo=Abbas-portfolio&hide_border=true" alt="Portfolio repo" onerror="this.style.display='none'" />
+![Repos](https://img.shields.io/badge/Public_Repos-30-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-13_repos-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8_repos-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Projects](https://img.shields.io/badge/Featured_Projects-15-F97316?style=for-the-badge&logo=vercel&logoColor=white)
+![Tests](https://img.shields.io/badge/Automated_Tests-180%2B-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Certs](https://img.shields.io/badge/Verified_Certs-10%2B-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
+
+*Updated Sep 2026 — live activity on [repositories](https://github.com/AbbasFullstack?tab=repositories)*
 
 ---
 
