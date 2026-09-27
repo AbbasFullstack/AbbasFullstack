@@ -1,49 +1,31 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Abbas%20Hussain&fontSize=64&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Products%20%C2%B7%20Web3&descAlignY=70&color=0:050505,50:1a1a1a,100:050505" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Web3&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+Product+Builder;Web3+%2F+ethers.js+Developer;Shipping+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
-
-
-<!-- Live Portfolio Badge -->
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/🚀_LIVE-abbas--portfolio.vercel.app-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
+**Full-Stack Developer · Building AI-powered products & secure Web3 tools**
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abbas--portfolio.beta.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbbasFullstack)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923088361404)
+📍 Pakistan · Remote-friendly · Open to internships & junior roles
 
 </div>
 
 ---
 
-<!-- About Me -->
 ## 👋 About Me
 
-<img align="right" width="180" src="https://github.com/AbbasFullstack.png" alt="Abbas Hussain" />
+I build **complete, usable products** — not just landing pages. My work covers authenticated SaaS patterns, database design, typed API contracts, real-time market streams, AI integrations, and Web3 testnet workflows.
 
-**Full-Stack Developer | 5x Internship Experience | Building AI-powered products & secure Web3 tools**
-
-I'm a Full-Stack Developer from Pakistan 🇵🇰 — building production-ready apps with modern web technologies.
-
-I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven web applications**. My work spans authenticated SaaS workflows, real-time market streams, database design, typed API contr
-acts, and responsible Web3 experiences.
-
-> 💡 **I care about clear product boundaries:** secure credentials stay server-side, API contracts stay documented, and testnet projects are presented responsibly.
-
-<br clear="right"/>
+> 🔐 **Product boundaries matter to me:** secure credentials stay server-side, API contracts stay documented, and financial/testnet projects are presented responsibly.
 
 ---
 
-<!-- Experience -->
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
+| Role | Company | Period |
+|------|---------|--------|
 | Backend Development Intern | **Internify** | Sep 2026 – Oct 2026 |
 | Full Stack Development Intern | **CodeAlpha** | Sep 2026 – Oct 2026 |
 | Web Development & Designing Intern | **Oasis Infobyte** | Sep 2026 – Oct 2026 |
@@ -54,196 +36,103 @@ acts, and responsible Web3 experiences.
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend:** React 19 · Next.js 16 · TypeScript · Tailwind CSS 4 · Vite
 
-### Frontend
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend & APIs:** Node.js · Express · tRPC · REST + JSON-RPC · OpenAPI
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+**Data & Auth:** PostgreSQL · Supabase (RLS) · MongoDB · Prisma · Drizzle · JWT · OAuth
 
-### Data & Auth
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mong
-odb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI, Realtime & Web3
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+**AI & Web3:** Streaming AI · WebSockets · ethers.js · MCP · OpenRouter
 
 ---
 
-<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 DevDesk AI</h3>
-      <p align="center">
-        <a href="https://dev-desk-ai-phi.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-F7931A?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/AbbasFullstack/DevDesk-AI-">
-          <img src="https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">AI-powered developer workspace for source-backed code analysis, project imports, and review-gated GitHub workflows.</p>
-      <p align="center"><b>Next.js · TypeScript · Supabase · AI</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 VaultX</h3>
-      <p align="center">
-        <a href="https://vaultx-mu.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-8B5CF6?style=for-th
-e-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/AbbasFullstack/vaultx">
-          <img src="https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Multi-chain testnet wallet with encrypted keystore flow, account import, and documented provider proxy routes.</p>
-      <p align="center"><b>Next.js · ethers.js · Infura · OpenAPI</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 CryptoWatch</h3>
-      <p align="center">
-        <a href="https://cryptowatch-rust.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/AbbasFullstack/cryptowatch">
-          <img src="https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Real-time crypto watchlist with Supabase Auth, RLS, Binance WebSocket prices, and interactive charts.</p>
-      <p align="center"><b>Next.js · Supabase · PostgreSQL · WebSocket</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📋 PulseBoard AI</h3>
-      <p align="center">
-        <a href="https://pulseboard-ai.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/AbbasFullstack/PulseBoard-AI">
-          <img src="https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Workspace-scoped CRM and pipeline app with Supabase Auth, RLS-protected data, and server-side AI.</p>
-      <p align="center"><b>Next.js · Supabase · AI · RLS</b></p>
-    </td>
-  </tr>
-</table>
+### 🤖 [DevDesk AI](https://github.com/AbbasFullstack/DevDesk-AI-) — AI Developer Workspace
+Source-backed code analysis with cited file paths, GitHub project imports, and review-gated workflows.
+`Next.js` `TypeScript` `Supabase` `GitHub API` `Server-side AI` — **[Live Demo](https://dev-desk-ai-phi.vercel.app)**
+
+### 🔐 [VaultX](https://github.com/AbbasFullstack/vaultx) — Multi-Chain Testnet Wallet
+Encrypted keystore flow, live balances, and provider keys kept server-side behind documented proxy routes.
+`Next.js` `ethers.js` `Infura` `OpenAPI` — **[Live Demo](https://vaultx-mu.vercel.app)**
+
+### 📊 [CryptoWatch](https://github.com/AbbasFullstack/cryptowatch) — Real-Time Crypto Watchlist
+Per-user watchlist with Binance WebSocket prices, PostgreSQL row-level security, and interactive charts.
+`Next.js` `Supabase` `PostgreSQL RLS` `WebSocket` `Recharts` — **[Live Demo](https://cryptowatch-rust.vercel.app)**
+
+### 📋 [PulseBoard AI](https://github.com/AbbasFullstack/PulseBoard-AI) — Workspace CRM
+Workspace-scoped CRM with caller-bound onboarding, RLS-protected data, and server-side AI boundaries.
+`Next.js` `Supabase Auth` `PostgreSQL/RLS` `Tailwind` — **[Live Demo](https://pulseboard-ai.vercel.app)**
+
+<details>
+<summary><b>📦 More builds</b></summary>
+
+- **[Abbas AI](https://github.com/AbbasFullstack/abbas-ai)** — Authenticated AI chat SaaS: streaming, multi-conversation history, code rendering — Next.js, Prisma, NextAuth
+- **[OmniX](https://github.com/AbbasFullstack/omnix)** — Multi-modal AI workspace: chat, audio, image, slides — Next.js, Supabase, OpenRouter
+- **[FaucetX](https://github.com/AbbasFullstack/faucetx)** — Testnet faucet with claim/withdraw API routes and server-side transaction handling — Next.js, ethers.js, Infura
+- **[Real-Time Crypto Tracker](https://github.com/AbbasFullstack/realtime-crypto-tracker)** — Live market dashboard with Binance WebSocket streams and coin pages — Next.js, Recharts
+- **[CryptoAI](https://github.com/AbbasFullstack/cryptoai)** — AI crypto assistant enriched with live Binance market context — Next.js, Groq, WebSocket
+- **[OpenAPI Forge](https://github.com/AbbasFullstack/openapi-forge)** — Contract-first API workspace: validation, doc preview, schema mocks, TS SDK generation — React 19, tRPC, Drizzle
+
+</details>
 
 ---
 
-<!-- Certifications -->
-## 🏅 Verified Certifications
+## 🏅 Verified Certifications (10+)
 
-<table>
-  <tr>
-    <td align="center" width
-="25%">
-      <img src="https://www.google.com/favicon.ico" width="40" /><br/>
-      <b>Google for Education</b><br/>
-      <sub>Gemini for Education · 2026</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://www.anthropic.com/favicon.ico" width="40" /><br/>
-      <b>Anthropic</b><br/>
-      <sub>Claude Code 101 · 2026</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="harvard.png" width="40" /><br/>
-      <b>Harvard University</b><br/>
-      <sub>CS50x · 2026</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://www.microsoft.com/favicon.ico" width="40" /><br/>
-      <b>Microsoft</b><br/>
-      <sub>Azure Repos · 2026</sub>
-    </td>
-  </tr>
-</table>
+| Issuer | Credential |
+|--------|-----------|
+| 🎓 **Harvard University** | CS50x: Introduction to Computer Science |
+| 🤖 **Anthropic** | Claude 101 · Claude Code 101 · MCP: Advanced · AI Fluency |
+| 🔍 **Google** | Gemini for Education · Student Inquiry Skills |
+| ⚡ **Microsoft** | Collaborate with pull requests in Azure Repos |
+| 💻 **freeCodeCamp** | Back-End Development and APIs · B1 English for Developers |
+| 📈 **Kaggle** | Python Data Analytics |
+| ☁️ **AWS** | Certified Developer — Associate (exam scheduled 2026) |
 
-<div align="center">
-
-**🔗 [View All 10+ Certifications](https://abbas-portfolio-beta.vercel.app/#certifications)**
-
-</div>
+🔗 **[Verify all credentials](https://abbas-portfolio-beta.vercel.app/#certs)**
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbbasFullstack&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasFullstack&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasFullstack&theme=radical&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbbasFullstack&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=F97316&icon_color=F97316" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasFullstack&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=F97316" />
 
 </div>
 
 ---
 
-<!-- Currently Learning -->
 ## 📚 Currently Learning
 
-- ☁️ **AWS Certified Developer** — core services, IAM, deployment
-- 🏗️ **Advanced System Design** — scalability, caching, queues
-- 🤖 **MCP + Agentic AI** — Model Context Protocol, tool-using agents
+- ☁️ **AWS Certified Developer — Associate** · exam scheduled for 2026
+- 🏗️ **Advanced System Design** · scalability, caching, queues
+- 🤖 **MCP + Agentic AI** · Model Context Protocol, tool-using agents
 
 ---
 
-<!-- Contact -->
 ## 📬 Let's Connect
 
 <div align="center">
 
-**Open to internships, junior roles, and collaboration.**
+Building something useful? I'd love to hear about it.
 
-[![Email](https://img.shields.io/badge/Email-abbaswebdevelopers@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge
-&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
-
-<br/>
-
-📍 **Pakistan · Remote-friendly**
+[![Email](https://img.shields.io/badge/abbaswebdevelopers@gmail.com-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-03088361404-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923088361404)
+[![CV](https://img.shields.io/badge/Download-CV_(PDF)-F97316?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://abbas-portfolio-beta.vercel.app/Abbas-Hussain-Full-Stack-Developer-CV.pdf)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
-**Made with ❤️ by Abbas Hussain — Ships from anywhere: fully cloud-based workflow ☁️**
+**Ships from anywhere: fully cloud-based workflow ☁️**
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=gradient&customColorList=10)
+<img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:050505,50:F97316,100:050505" width="100%" alt="Footer" />
 
 </div>
