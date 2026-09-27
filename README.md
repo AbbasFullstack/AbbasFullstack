@@ -32,7 +32,8 @@ I build **complete, usable products** — not just landing pages. My work covers
 | Full Stack Development Intern | **ArithMatrix** | Sep 2026 – Oct 2026 |
 | Frontend Web Developer Intern | **Barakah TechLabs** | Sep 2026 – Oct 2026 |
 
-<sub>📋 Project-based virtual internship programs, completed in parallel as structured, mentor-reviewed builds — each with a public GitHub repository.</sub>
+<sub>📋 Project-based virtual internship programs, completed in parallel as structured, mentor-reviewed builds — each with a public GitHub reposito
+ry.</sub>
 
 ---
 
@@ -71,7 +72,8 @@ Workspace-scoped CRM with caller-bound onboarding, RLS-protected data, and serve
 
 - **[Abbas AI](https://github.com/AbbasFullstack/abbas-ai)** — Authenticated AI chat SaaS: streaming, multi-conversation history, code rendering — Next.js, Prisma, NextAuth
 - **[OmniX](https://github.com/AbbasFullstack/omnix)** — Multi-modal AI workspace: chat, audio, image, slides — Next.js, Supabase, OpenRouter
-- **[FaucetX](https://github.com/AbbasFullstack/faucetx)** — Testnet faucet with claim/withdraw API routes and server-side transaction handling — Next.js, ethers.js, Infura
+- **[FaucetX](https://github.com/AbbasFullstack/fau
+cetx)** — Testnet faucet with claim/withdraw API routes and server-side transaction handling — Next.js, ethers.js, Infura
 - **[Real-Time Crypto Tracker](https://github.com/AbbasFullstack/realtime-crypto-tracker)** — Live market dashboard with Binance WebSocket streams and coin pages — Next.js, Recharts
 - **[CryptoAI](https://github.com/AbbasFullstack/cryptoai)** — AI crypto assistant enriched with live Binance market context — Next.js, Groq, WebSocket
 - **[OpenAPI Forge](https://github.com/AbbasFullstack/openapi-forge)** — Contract-first API workspace: validation, doc preview, schema mocks, TS SDK generation — React 19, tRPC, Drizzle
@@ -100,8 +102,8 @@ Workspace-scoped CRM with caller-bound onboarding, RLS-protected data, and serve
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbbasFullstack&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=F97316&icon_color=F97316" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasFullstack&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=F97316" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbbasFullstack&show_icons=true&hide_border=true" alt="GitHub stats" onerror="this.style.display='none'" />
+<img src="https://github-readme-stats.vercel.app/api/pin?username=AbbasFullstack&repo=Abbas-portfolio&hide_border=true" alt="Portfolio repo" onerror="this.style.display='none'" />
 
 </div>
 
@@ -117,7 +119,8 @@ Workspace-scoped CRM with caller-bound onboarding, RLS-protected data, and serve
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div 
+align="center">
 
 Building something useful? I'd love to hear about it.
 
