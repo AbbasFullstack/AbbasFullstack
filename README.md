@@ -5,6 +5,8 @@
 
 
 <!-- Live Portfolio Badge -->
+<div align="center">
+
 [![Live Portfolio](https://img.shields.io/badge/🚀_LIVE-abbas--portfolio.vercel.app-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
 
 <br/>
@@ -28,7 +30,8 @@
 
 I'm a Full-Stack Developer from Pakistan 🇵🇰 — building production-ready apps with modern web technologies.
 
-I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven web applications**. My work spans authenticated SaaS workflows, real-time market streams, database design, typed API contracts, and responsible Web3 experiences.
+I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven web applications**. My work spans authenticated SaaS workflows, real-time market streams, database design, typed API contr
+acts, and responsible Web3 experiences.
 
 > 💡 **I care about clear product boundaries:** secure credentials stay server-side, API contracts stay documented, and testnet projects are presented responsibly.
 
@@ -46,6 +49,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 | Web Development & Designing Intern | **Oasis Infobyte** | Sep 2026 – Oct 2026 |
 | Full Stack Development Intern | **ArithMatrix** | Sep 2026 – Oct 2026 |
 | Frontend Web Developer Intern | **Barakah TechLabs** | Sep 2026 – Oct 2026 |
+
+<sub>📋 Project-based virtual internship programs, completed in parallel as structured, mentor-reviewed builds — each with a public GitHub repository.</sub>
 
 ---
 
@@ -69,7 +74,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 ### Data & Auth
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mong
+odb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### AI, Realtime & Web3
@@ -110,7 +116,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
       <h3 align="center">🔐 VaultX</h3>
       <p align="center">
         <a href="https://vaultx-mu.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/Live-Demo-8B5CF6?style=for-th
+e-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://github.com/AbbasFullstack/vaultx">
           <img src="https://img.shields.io/badge/Code-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -157,7 +164,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width
+="25%">
       <img src="https://www.google.com/favicon.ico" width="40" /><br/>
       <b>Google for Education</b><br/>
       <sub>Gemini for Education · 2026</sub>
@@ -168,7 +176,7 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
       <sub>Claude Code 101 · 2026</sub>
     </td>
     <td align="center" width="25%">
-      <img src="harvard.png/><br/>
+      <img src="harvard.png" width="40" /><br/>
       <b>Harvard University</b><br/>
       <sub>CS50x · 2026</sub>
     </td>
@@ -219,7 +227,8 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 **Open to internships, junior roles, and collaboration.**
 
 [![Email](https://img.shields.io/badge/Email-abbaswebdevelopers@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaswebdevelopers@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge
+&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
 
 <br/>
@@ -233,7 +242,7 @@ I focus on **AI-powered products**, **Web3 tools**, and **secure, data-driven we
 <!-- Footer -->
 <div align="center">
 
-**Made with ❤️ by Abbas Hussain — Built on a mobile phone 📱**
+**Made with ❤️ by Abbas Hussain — Ships from anywhere: fully cloud-based workflow ☁️**
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=gradient&customColorList=10)
 
