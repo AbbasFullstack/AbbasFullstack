@@ -92,7 +92,7 @@ cetx)** — Testnet faucet with claim/withdraw API routes and server-side transa
 | ⚡ **Microsoft** | Collaborate with pull requests in Azure Repos |
 | 💻 **freeCodeCamp** | Back-End Development and APIs · B1 English for Developers |
 | 📈 **Kaggle** | Python Data Analytics |
-| ☁️ **AWS** | Certified Developer — Associate (exam scheduled 2026) |
+| ☁️ **AWS** | AWS Developer Associate — Exam Prep Plan Completed (preparing for proctored exam) |
 
 🔗 **[Verify all credentials](https://abbas-portfolio-beta.vercel.app/#certs)**
 
