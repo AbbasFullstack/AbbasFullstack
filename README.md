@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Mobile&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Abbas%20Hussain&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Mobile&descAlignY=68&color=gradient&customColorList=24" width="100%" alt="Abbas Hussain — Full-Stack AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+Product+Builder;Native+Android+%2B+Next.js;Shipping+from+Pakistan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Code&weight=700&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Full-Stack+AI+Engineer;AI+Product+Builder;Native+Android+%2B+Next.js;Shipping+from+Pakistan" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abbas--portfolio.beta.vercel.app-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://abbas-portfolio-beta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-hussain-56a61338b/)
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I build **complete products** — not landing-page demos. When Vercel had no official Android app, I shipped an unofficial native companion. I contribute upstream (**Google Gemini CLI**, **Supabase**) and ship multi-tenant SaaS with auth, RLS, realtime streams, and server-side AI.
+I build **complete products** — not landing-page demos. When Vercel had no official Android app, I shipped an unofficial native companion. I contribute upstream (**Vercel AI** ✅ contributor, **Google Gemini CLI**, **Supabase**) and ship multi-tenant SaaS with auth, RLS, realtime streams, and server-side AI.
 
 > 🔐 Product boundaries matter: credentials stay server-side, API contracts stay documented, Web3 demos stay testnet-only.
 
@@ -27,7 +27,7 @@ I build **complete products** — not landing-page demos. When Vercel had no off
 | Focus | Work |
 |-------|------|
 | **Flagship** | [Vercel Android Companion](https://github.com/AbbasFullstack/vercel-android-companion) — Kotlin · Jetpack Compose · Room · Vercel API |
-| **Open source** | [gemini-cli #29718](https://github.com/google-gemini/gemini-cli/pull/29718) (rootless Podman fix) · [Supabase #51226](https://github.com/supabase/supabase/pull/51226) |
+| **Open source** | ✅ **[vercel/ai](https://github.com/vercel/ai) contributor** — merged [docs fix #24198](https://github.com/vercel/ai/pull/24198) · [gemini-cli #29718](https://github.com/google-gemini/gemini-cli/pull/29718) (rootless Podman fix) · [Supabase #51226](https://github.com/supabase/supabase/pull/51226) |
 | **SaaS** | DevDesk AI · PulseBoard AI · CryptoWatch — Next.js · Supabase RLS · server-side AI |
 
 ---
